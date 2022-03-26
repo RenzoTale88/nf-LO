@@ -1,3 +1,7 @@
+# This repository is now archived and unmantained. 
+# See latest development here:
+# https://github.com/evotools/nf-LO/
+
 # nf-LO
 ## Nextflow LiftOver pipeline
 
